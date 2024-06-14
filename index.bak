@@ -267,19 +267,19 @@
           </h2>
         </blockquote> -->        
         <p>
-          I am a Grade-11 Student at Debsirin School. I enjoy problem-solving and coding. 
-          I am a versatile developer with comprehensive skills in web development, 
-          encompassing HTML, CSS, JavaScript, and Node.js. Additionally, I have experience in AI development using Python, 
-          Internet of Things (IoT) projects, and creating interactive LINE chatbot using LINE Messaging API. 
-          My diverse project portfolio reflects a passion for leveraging technology to build innovative solutions.
+          I am a Computer Science Grad Student at Arizona State University. I enjoy problem-solving and coding. Always strive to bring 100% to the work I do.
+
+          I have worked on technologies like Python, Django, Flask, MySQL, PostgreSQL, MongoDB, HTML5, CSS, Java, C++ during my bachelor's. I have 19 months of professional work experience which helped me strengthen my experience in Python, Flask, and Django.
+
+          I am passionate about developing complex applications that solve real-world problems impacting millions of users.
         </p>
         <p>
           <ul>
-            <li><b>Languages:</b> Python, JavaScript, C, C++, HTML/CSS</li>
-            <li><b>Databases:</b> MySQL, Firebase Realtime Database</li>
+            <li><b>Languages:</b> Python, Java, JavaScript, C, C++, HTML/CSS, Bash</li>
+            <li><b>Databases:</b> MySQL, PostgreSQL, MongoDB</li>
             <li><b>Libraries:</b> NumPy, Pandas, OpenCV</li>
-            <li><b>Frameworks:</b> Flask, Node.js, Keras, TensorFlow, PyTorch</li>
-            <li><b>Tools & Technologies:</b> Git, LINE OA, LINE Messaging API, Firebase Services</li>
+            <li><b>Frameworks:</b> Flask, Django, Node.js, Keras, TensorFlow, PyTorch, Bootstrap, Apache Beam</li>
+            <li><b>Tools & Technologies:</b> Git, Docker, AWS, GCP, Heroku, JIRA</li>
           </ul>
           
         </p>
@@ -289,8 +289,7 @@
           Detail-oriented Software Developer with professional experience in Backend Development, Machine Learning, Computer Vision. I am adept in Python, Django, Flask, SQL, Machine Learning, Computer Vision.           
         </p> -->
         <p>
-          <!-- Looking for an opportunity to work in a challenging position combining my skills in Software Engineering, which provides professional development, interesting experiences and personal growth.
-          -->
+          Looking for an opportunity to work in a challenging position combining my skills in Software Engineering, which provides professional development, interesting experiences and personal growth.
         </p>
         <!-- <p>
           Another Paragraph
@@ -310,7 +309,163 @@
     <!-- Third Section: Experience -->
     
     <section id="experience" class="section scrollspy">
-      
+      <h3 class="page-title white-text teal">Experience</h3>
+      <div class="container">
+
+        <!-- Latest Experience -->
+        <div class="card">
+          <div class="card-content">
+            <div class="row">
+              <div class="col s12 m2">
+                <a href="https://www.zhiffy.com/" target="_blank"><img alt="Zhiffy logo"
+                    src="/assets/img/exp-zhiffy-logo-1.webp" class="responsive-img center-block" /></a>
+              </div>
+              <!-- <div class="col s12 m10"> -->
+              <div class="col s12 m10">
+                <p>
+                  <span class="card-title"><a href="https://www.zhiffy.com/" target="_blank"
+                      class="teal-text hoverline">Zhiffy</a></span>
+                </p>
+              </div>
+            </div>
+            <div class="role brown-text text-darken-2">Software Engineer</div>
+            <ul>
+              <li>
+                Developed and managed the backend of an e-commerce platform using Flask, MongoDB, and AWS.
+              </li>
+              <li>
+                Worked on three web applications targeting customers, selling vendors, and admin users; built 50+ RESTful APIs with functionalities
+such as login/sign up, view a product, add a product to cart, checkout the order, etc.
+              </li>
+              <li>Improved the response time by 20% by refactoring the codebase and changing database design and queries.</li>
+              <li>Added a bulk upload feature which reduced the manual work of adding products into a database.</li>
+              <li>
+                <b>Tools:</b> Python, Flask, MongoDB
+              </li>
+            </ul>
+          </div>
+          <div class="card-action">
+            <span>July 2020 - Nov 2020 | Hyderabad, India</span>
+          </div>
+        </div>
+
+        
+        <div class="card">
+          <div class="card-content">
+            <div class="row">
+              <div class="col s12 m2">
+                <a href="https://www.meditab.com" target="_blank"><img alt="Meditab logo"
+                    src="/assets/img/exp-meditab-logo-500x500.jpg" class="responsive-img center-block" /></a>
+              </div>
+              <!-- <div class="col s12 m10"> -->
+              <div class="col s12 m10">
+                <p>
+                  <span class="card-title"><a href="http://meditab.com" target="_blank"
+                      class="teal-text hoverline">Meditab</a></span>
+                </p>
+              </div>
+            </div>
+            <div class="role brown-text text-darken-2">Programmer Analyst</div>
+            <ul>
+              <li>
+                Customized a tree-based optimization algorithm that separates drugs into distinct groups to maximize the concurrent execution of drug
+dispenser robots; improved an optimization algorithm that reduced the cycle-time of the automation process by 25%.
+              </li>
+              <li>
+                Devised a customized recursion algorithm to extend the functionality of the current environment to a multi-robot and multi-system
+environment
+              </li>
+              <li>
+                Built a modular video analytics app using Flask, OpenCV that tracks the location of each human in a multi-camera environment;
+utilized perspective transformation, object detection, and object tracking to find the location of a human.
+              </li>
+              <li>Increased the speed of the video analytics app by 20% by using a customized YOLOv3 algorithm to perform object detection and
+                DeepSORT algorithm for multi-object tracking.</li>
+              <li>
+                <b>Tools:</b> Python, Flask, OpenCV, Keras, Tensorflow, PyTorch
+              </li>
+            </ul>
+          </div>
+          <div class="card-action">
+            <span>Dec 2018 - July 2019 | Ahmedabad, India</span>
+          </div>
+        </div>
+
+        <!-- Experience 2 -->
+        <div class="card">
+          <div class="card-content">
+            <div class="row">
+              <div class="col s12 m2">
+                <img alt="Mtag logo" src="/assets/img/exp-mtag-logo-250x250.jpg" class="responsive-img center-block" />
+
+              </div>
+
+              <!-- <div class="col s12 m10"> -->
+              <div class="col s12 m10">
+                <p>
+                  <span class="card-title"><a href="#experience" class="teal-text hoverline">Mtag
+                      Innovations</a></span>
+                </p>
+              </div>
+            </div>
+            <div class="role brown-text text-darken-2">Software Developer</div>
+            <ul>
+              <li>
+                Programmed a cloud-based web app using Flask and JavaScript aimed at storing, visualizing, and tracking temperature and humidity
+of each drug container to estimate the degradation of the drug.
+              </li>
+              <li>
+                Created an alert system to send notifications and emails when the parameters exceed the threshold.
+              </li>
+              <li>
+                <b>Tools:</b> Python, Flask, JavaScript
+              </li>
+            </ul>
+          </div>
+          <div class="card-action">
+            <span>July 2018 - Nov 2018 | Ahmedabad, India</span>
+          </div>
+        </div>
+
+        <!-- Experience 3 -->
+        <div class="card">
+          <div class="card-content">
+            <div class="row">
+              <div class="col s12 m2">
+                <a href="https://www.cignex.com" target="_blank"><img alt="Cignex logo"
+                    src="/assets/img/exp-cignex-logo.png" class="responsive-img center-block" /></a>
+              </div>
+              <div class="col s12 m10">
+                <p>
+                  <span class="card-title"><a href="https://www.cignex.com" target="_blank"
+                      class="teal-text hoverline">CIGNEX
+                      Datamatics </a></span>
+                </p>
+              </div>
+            </div>
+            <div class="role brown-text text-darken-2">Project Trainee</div>
+            <ul>
+              <li>
+                Designed a library management system for a local library, where we undertook activities like requirement
+                elicitation, preparing Data Flow
+                and Entity-Relationship diagrams.
+              </li>
+              <li>
+                Delivered a solution for a POC involving Automatic Financial Document Classifier using Natural Language
+                Processing and Support Vector
+                Machines with 96% accuracy on the company’s data.
+              </li>
+              <li>
+                <b>Tools:</b> Python, Scikit-learn, NLTK
+              </li>
+            </ul>
+          </div>
+          <div class="card-action">
+            <span>June 2017 - July 2017 | Ahmedabad, India</span>
+          </div>
+        </div>
+
+      </div>
     </section> 
 
     <!-- Fourth Section: Projects -->
@@ -318,17 +473,17 @@
       <h3 class="page-title white-text teal">Projects</h3>
       <div class="container">
         <div class="row">
-          <!-- 1. IOT Robot Gardener -->
+
           <div class="col s12 m6 l4">
             <div class="card medium">
               <div class="card-image waves-effect waves-block waves-light">
-                <img alt="Robot Gardener" src="/assets/img/robot-gardener.jpg" style="height: 100%; width: 100%" class="activator" />
+                <img alt="music streaming app" src="/assets/img/project-music-player.png" style="height: 100%; width: 100%" class="activator" />
               </div>
               <div class="card-content">
-                <span class="card-title activator teal-text hoverline">Robot Gardener<i
+                <span class="card-title activator teal-text hoverline">Music Player Web-App<i
                     class="mdi-navigation-more-vert right"></i></span>
                 <p>
-                  IoT based indoor plant watering system using Raspberry Pi, Line application and Dialogflow.
+                  A music streaming web app based on Django
                 </p>
               </div>
               <div class="card-reveal">
@@ -337,20 +492,20 @@
                 <span class="card-title grey-text"><small>Accomplishments</small><i
                     class="mdi-navigation-close right"></i></span>
                 <ul>
-                  <li><b>Tools:</b> Raspberry Pi 4, Pi Camera, Soil moisture sensor, Micro DC water pump, Light bulb, Python, Flask, Line Messaging API and Dialogflow.</li>
-                  <li>The Raspberry Pi will control the water pump automatically as per the soil moisture level.</li>
-                  <li>We can control and monitor the moisture and plant from anywhere in the world using LINE chatbot and Dialogflow.</li>
-                  <li>We can turn on the light bulb in the couldy day.</li>
-                  <li>we can take picture of our plant using Pi Camera.</li>
+                  <li><b>Tools:</b> Django, HTML, CSS, Bootstrap, SQLite, AWS S3, Heroku</li>
+                  <li>Register/login to the web app(with OAuth-based Google Sign-In).</li>
+                  <li>Search and filter songs based on language and singer.</li>
+                  <li>Create multiple playlists and add/remove songs to/from playlist.</li>
+                  <li>Scroll through recently played/viewed songs.</li>
 
 
                 </ul>
                 <div class="card-action">
-                  <a aria-label="Visit " href="/assets/img/robot-gardener2.jpg" target="_blank" data-position="top"
+                  <a aria-label="Visit " href="https://galvanic-music.herokuapp.com/" target="_blank" data-position="top"
                     data-tooltip="View Online"
                     class="btn-floating btn-large waves-effect waves-light blue-grey tooltipped"><i
                       class="fa fa-external-link"></i></a>
-                  <a aria-label="Visit the GitHub repo for  project" href="https://github.com/punpayut/IOT-Robot-Gardener"
+                  <a aria-label="Visit the GitHub repo for  project" href="https://github.com/varadbhogayata/music-player"
                     target="_blank" data-position="top" data-tooltip="View Source"
                     class="btn-floating btn-large waves-effect waves-light blue-grey tooltipped"><i
                       class="fa fa-github"></i></a>
@@ -358,17 +513,17 @@
               </div>
             </div>
           </div>
-          <!-- 2. LINE chatbot X Gemini API -->
+
           <div class="col s12 m6 l4">
             <div class="card medium">
               <div class="card-image waves-effect waves-block waves-light">
-                <img alt="quiz app" src="/assets/img/project-line-gemini.jpg" style="height: 100%; width: 100%" class="activator" />
+                <img alt="quiz app" src="/assets/img/project-quizup-logo-1.png" style="height: 100%; width: 100%" class="activator" />
               </div>
               <div class="card-content">
-                <span class="card-title activator teal-text hoverline">LINE Chatbot x Gemini<i
+                <span class="card-title activator teal-text hoverline">Quiz Web-App<i
                     class="mdi-navigation-more-vert right"></i></span>
                 <p>
-                  A LINE chatbot webhook interacts with the Gemini API to generate responses to user queries.
+                  A quiz playing web app based on Django
                 </p>
               </div>
               <div class="card-reveal">
@@ -377,18 +532,17 @@
                 <span class="card-title grey-text"><small>Accomplishments</small><i
                     class="mdi-navigation-close right"></i></span>
                 <ul>
-                  <li><b>Tools:</b>LINE Messaging API, Gemini API, Node.js</li>
-                  <li>LINE chatbot webhook using the Firebase Functions framework.</li>
-                  <li>Handles text and image messages, and interacts with the Gemini API to generate responses</li>
+                  <li><b>Tools:</b> Django, HTML, CSS, Bootstrap, SQLite, Heroku</li>
+                  <li>Register/login to the web app(with OAuth-based Google Sign-In).</li>
+                  <li>Play Quiz and see the leaderboard</li>
 
                 </ul>
-                
                 <div class="card-action">
                   <a aria-label="Visit " href="https://quiz-up-app.herokuapp.com/" target="_blank" data-position="top"
                     data-tooltip="View Online"
                     class="btn-floating btn-large waves-effect waves-light blue-grey tooltipped"><i
                       class="fa fa-external-link"></i></a>
-                  <a aria-label="Visit the GitHub repo for  project" href="https://github.com/punpayut"
+                  <a aria-label="Visit the GitHub repo for  project" href="https://github.com/varadbhogayata/QuizUp"
                     target="_blank" data-position="top" data-tooltip="View Source"
                     class="btn-floating btn-large waves-effect waves-light blue-grey tooltipped"><i
                       class="fa fa-github"></i></a>
@@ -435,7 +589,6 @@
           </div> -->
 
           <!-- Flask Project -->
-          <!-- 
           <div class="col s12 m6 l4">
             <div class="card medium">
               <div class="card-image waves-effect waves-block waves-light">
@@ -448,8 +601,10 @@
                 <p>
                   A simple and extensible blog web-app based on Flask.
                 </p>
-              </div> 
-              <div class="card-reveal"> 
+              </div>
+              <div class="card-reveal">
+                <!-- TODO: change this -- only close button -->
+                <!-- <span class="card-title brown-text">Accomplishments<i class="mdi-navigation-close right"></i></span> -->
                 <span class="card-title teal-text"><small>Accomplishments</small><i
                     class="mdi-navigation-close right"></i></span>
                 <ul>
@@ -471,10 +626,9 @@
                 </div>
               </div>
             </div>
-          </div> -->
+          </div>
 
           <!-- VQA -->
-          <!-- 
           <div class="col s12 m6 l4">
             <div class="card medium">
               <div class="card-image waves-effect waves-block waves-light">
@@ -488,6 +642,8 @@
                 </p>
               </div>
               <div class="card-reveal">
+                <!-- TODO: change this -- only close button -->
+                <!-- <span class="card-title brown-text">Accomplishments<i class="mdi-navigation-close right"></i></span> -->
                 <span class="card-title teal-text"><small>Accomplishments</small><i
                     class="mdi-navigation-close right"></i></span>
                 <ul>
@@ -507,10 +663,9 @@
                 </div>
               </div>
             </div>
-          </div> -->
+          </div>
 
           <!-- Video Summarizer -->
-          <!-- 
           <div class="col s12 m6 l4">
             <div class="card medium">
               <div class="card-image waves-effect waves-block waves-light">
@@ -524,6 +679,8 @@
                 </p>
               </div>
               <div class="card-reveal">
+                <!-- TODO: change this -- only close button -->
+                <!-- <span class="card-title brown-text">Accomplishments<i class="mdi-navigation-close right"></i></span> -->
                 <span class="card-title brown-text"><small>Accomplishments</small><i
                     class="mdi-navigation-close right"></i></span>
                 <ul>
@@ -534,7 +691,7 @@
                     BLEU, METEOR evaluation metrics.</li>
 
                 </ul>
-                
+                <!-- TODO: UPLOAD THIS PROJECT ON GITHUB -->
                 <div class="card-action">
                   <a aria-label="Visit the GitHub repo for  project" href="https://github.com/varadbhogayata/"
                     target="_blank" data-position="top" data-tooltip="View Source"
@@ -543,10 +700,9 @@
                 </div>
               </div>
             </div>
-          </div> -->
+          </div>
 
           <!-- Image Generator -->
-          <!-- 
           <div class="col s12 m6 l4">
             <div class="card medium">
               <div class="card-image waves-effect waves-block waves-light">
@@ -560,6 +716,8 @@
                 </p>
               </div>
               <div class="card-reveal">
+                <!-- TODO: change this -- only close button -->
+                <!-- <span class="card-title brown-text">Accomplishments<i class="mdi-navigation-close right"></i></span> -->
                 <span class="card-title brown-text"><small>Accomplishments</small><i
                     class="mdi-navigation-close right"></i></span>
                 <ul>
@@ -570,17 +728,16 @@
 
                 </ul>
                 <div class="card-action">
-                  <a aria-label="Visit the GitHub repo for  project" href="https://github.com/punpayut/"
+                  <a aria-label="Visit the GitHub repo for  project" href="https://github.com/varadbhogayata/"
                     target="_blank" data-position="top" data-tooltip="View Source"
                     class="btn-floating btn-large waves-effect waves-light blue-grey tooltipped"><i
                       class="fa fa-github"></i></a>
                 </div>
               </div>
             </div>
-          </div> -->
+          </div>
 
           <!-- Head Counting System -->
-          <!-- 
           <div class="col s12 m6 l4">
             <div class="card medium">
               <div class="card-image waves-effect waves-block waves-light">
@@ -594,6 +751,8 @@
                 </p>
               </div>
               <div class="card-reveal">
+                <!-- TODO: change this -- only close button -->
+                <!-- <span class="card-title brown-text">Accomplishments<i class="mdi-navigation-close right"></i></span> -->
                 <span class="card-title brown-text"><small>Accomplishments</small><i
                     class="mdi-navigation-close right"></i></span>
                 <ul>
@@ -611,7 +770,7 @@
                 </div>
               </div>
             </div>
-          </div> -->
+          </div>
 
           <!-- ************* -->
         </div>
@@ -637,15 +796,14 @@
                 <img alt="" src="/assets/img/css3-300x300.jpg" class="responsive-img" />CSS3
               </div>
               <div class="col s4 m2">
-                <img alt="" src="/assets/img/javascript.png" class="responsive-img" />JavaScript
+                <img alt="" src="/assets/img/mysql-logo-1-300x300.jpg" class="responsive-img" />MySQL
               </div>
               <div class="col s4 m2">
-                <img alt="" src="/assets/img/c.jpg" class="responsive-img" />C/C++
+                <img alt="" src="/assets/img/postgresql-logo.png" class="responsive-img" />PostgreSQL
               </div>
               <div class="col s4 m2">
-                <img alt="" src="/assets/img/firebase.png" class="responsive-img" />Firebase Database
+                <img alt="" src="/assets/img/shell-logo-1-300x300.jpg" class="responsive-img" />Shell Scripting
               </div>
-              
             </div>
           </div>
         </div>
@@ -679,10 +837,13 @@
             <h4 class="brown-text light">Frameworks</h4>
             <div class="row text-center">
               <div class="col s4 m2">
-                <img alt="" src="/assets/img/nodejs.png" class="responsive-img" />Node.JS
+                <img alt="" src="/assets/img/django-logo.webp" class="responsive-img" />Django
               </div>
               <div class="col s4 m2">
                 <img alt="" src="/assets/img/flask-logo.png" class="responsive-img" />Flask
+              </div>
+              <div class="col s4 m2">
+                <img alt="" src="/assets/img/bootstrap.png" class="responsive-img" />Bootstrap
               </div>
               <div class="col s4 m2">
                 <img alt="" src="/assets/img/keras-logo.png" class="responsive-img" />Keras
@@ -708,7 +869,7 @@
                 <img alt="" src="/assets/img/git.png" class="responsive-img" />Git
               </div>
               <div class="col s4 m2">
-                <img alt="" src="/assets/img/lineoa.png" class="responsive-img" />LINE OA
+                <img alt="" src="/assets/img/aws.png" class="responsive-img" />AWS
               </div>
               <div class="col s4 m2">
                 <img alt="" src="/assets/img/heroku.png" class="responsive-img" />Heroku
@@ -764,21 +925,22 @@
             <div class="card">
               <div class="card-content">
                 <p>
-                  <span class="card-title"><a href="https://www.debsirin.ac.th/index.php" target="_blank" class="teal-text hoverline">Debsirin School</a></span>
+                  <span class="card-title"><a href="https://www.asu.edu/" target="_blank" class="teal-text hoverline">Arizona State University</a></span>
                 </p>
-                <p class="brown-text">Bangkok, Thailand</p>
+                <p class="brown-text">Tempe, USA</p>
                 <p>
-                  <b>Degree: </b>High School      
+                  <b>Degree: </b>Master of Science in Computer Science      
                   <br>
-                  <!-- <b>CGPA: </b>4.0/4.0 -->
+                  <b>CGPA: </b>4.0/4.0
                 </p>
 
                 <ul>
                   <p>
                     <b>Relevant Courseworks:</b>
                   <ul>
-                    <li>Science-Mathametics Program</li>
-                                       
+                    <li>Distributed Database Systems</li>
+                    <li>Cloud Computing</li>
+                    <li>Foundations of Algorithms</li>                    
                   </ul>
                   </p>
 
@@ -788,7 +950,6 @@
 
             
           </div>
-          <!--
           <div class="col s12 m6 l6">
             <div class="card">
               <div class="card-content">
@@ -820,7 +981,7 @@
             </div>
           </div>
         </div>
-      </div> -->
+      </div>
     </section>
 
     <!-- Eight Section: Contact -->
